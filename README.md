@@ -1,35 +1,5 @@
-# Shahriar — SEO Portfolio
+# portfolio
 
-A one-page portfolio of my SEO work for online stores and local businesses.
+This address now redirects to my main site: **https://shahriar98k.github.io/**
 
-**Live page:** https://shahriar98k.github.io/
-
-**Hire me:** [Fiverr](https://www.fiverr.com/users/hakimshahriar98), [Upwork](https://www.upwork.com/freelancers/~016898508618a9bd90), [LinkedIn](https://www.linkedin.com/in/hm-shahriar-kamal)
-
-## What I do
-
-- SEO audits
-- Keyword research
-- On-page SEO (titles, meta descriptions, page content)
-- Technical SEO checks
-- SEO content in English, Italian and Urdu
-- Monthly Search Console reports
-
-## Projects on the page
-
-| Project | Market | Result |
-|---|---|---|
-| Mystery College | USA | Store sales up 90% in 2023 |
-| Natural Herbs Market | UK | Net sales up 16% in 11 months |
-| Makola Stores | USA | Monthly clicks up 44%, Jan to Sep 2026 |
-| BnB Hotel Ospedale Maggiore | Italy | Monthly impressions up 8x, Jan to Sep 2026 |
-| Spray Paint Pakistan | Pakistan | Clicks per day about doubled, Apr to Aug 2026 |
-| Marjan Polymer | Pakistan | 15-article SEO content package |
-
-## Where the numbers come from
-
-- Search results: Google Search Console.
-- Sales results: the stores' own WooCommerce reports.
-- Each project on the page shows its date range and source.
-
-
+The full site (Home, Work, About, Contact) lives in the [shahriar98k.github.io](https://github.com/shahriar98k/shahriar98k.github.io) repository.
